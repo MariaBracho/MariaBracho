@@ -16,6 +16,7 @@ Soy una venezolana apasionada por el arte y la tecnología. Siendo autodidacta, 
 ### Contacto
 ---
 ![linkedin](/assets/Linkedin-icon.png) [María Alejandra Bracho Villanueva](https://www.linkedin.com/in/mar%C3%ADa-bracho-villanueva/)   
-![email](/assets/mail-message-icon.png) mariabrachovillanueva@gmail.com
+✉ mariabrachovillanueva@gmail.com
+📍 https://maria-bracho-dev.vercel.app/
 
 
