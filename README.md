@@ -10,7 +10,6 @@ Soy una venezolana apasionada por el arte y la tecnología. Siendo autodidacta, 
 ### Sobre mí
 - 👩‍💻 Actualmente estoy desarrollando proyectos en equipo.
 - 💚 Estoy aprendiendo desarrollo web en Platzi.
-- 🔎 Estoy en búsqueda de mi primer trabajo IT.
 - 👩‍🎨🚀 Me apasiona el arte y la tecnología.
 
 ### Contacto
