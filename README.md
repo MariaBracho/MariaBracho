@@ -1,4 +1,4 @@
-## Hi there 👋, I'm María Bracho 👩‍💻
+## Holaa 👋, Soy María Bracho 👩‍💻
 ### Frontend developer
 
 ![banner](/assets/banner.svg)
